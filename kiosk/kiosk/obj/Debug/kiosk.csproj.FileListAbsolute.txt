@@ -1,0 +1,47 @@
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.exe.config
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.exe
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.exe
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Controller.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Entity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Controller.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Model.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Data.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Entity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\View.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\View.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\ViewEntity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\ViewEntity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\catalog.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\Order001.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\OrderPPAP.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\promotions.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.exe.config
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.exe
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\catalog.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\Order001.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\OrderPPAP.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Sources\promotions.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.exe
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\kiosk.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Controller.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\ViewEntity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\View.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Entity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Controller.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\ViewEntity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Model.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\View.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Data.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\bin\Debug\Entity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\kiosk\obj\Debug\kiosk.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\kiosk\bin\Debug\kiosk.exe.config
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\kiosk\obj\Debug\kiosk.exe
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\kiosk\obj\Debug\kiosk.pdb

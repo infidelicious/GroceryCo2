@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCatalogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CatalogItem>
+    <Name>Apple</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To>2001-12-31T23:59:59</To>
+    </Effective>
+    <Price>0.55</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Apple</Name>
+    <Effective>
+      <From>2002-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>0.75</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Banana</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>1.0</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Orange Juice</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To>1983-06-09T23:59:59</To>
+    </Effective>
+    <Price>1.1</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Orange Juice</Name>
+    <Effective>
+      <From>1983-06-10T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>2.0</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Pineapple</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>5.0</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Pen</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>0.99</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Spatula</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>4.99</Price>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Button</Name>
+    <Effective>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Effective>
+    <Price>0.30</Price>
+  </CatalogItem>
+</ArrayOfCatalogItem>

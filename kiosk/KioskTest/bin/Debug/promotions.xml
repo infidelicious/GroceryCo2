@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPromotion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Promotion xsi:type="SimplePricePromotion">
+    <Product>Apple</Product>
+    <Period>
+      <From>2017-03-01T00:00:00</From>
+      <To>2017-04-01T00:00:00</To>
+    </Period>
+    <Price>0.5</Price>
+  </Promotion>
+  <Promotion xsi:type="GroupFixedPricePromotion">
+    <Product>Spatula</Product>
+    <Period>
+      <From>2011-03-01T00:00:00</From>
+      <To>2021-04-01T00:00:00</To>
+    </Period>
+    <Quantity>10</Quantity>
+    <Price>7.77</Price>
+  </Promotion>
+  <Promotion xsi:type="GroupFixedPricePromotion">
+    <Period>
+      <From>0001-01-01T00:00:00</From>
+      <To xsi:nil="true" />
+    </Period>
+    <Quantity>0</Quantity>
+    <Price>0</Price>
+  </Promotion>
+</ArrayOfPromotion>

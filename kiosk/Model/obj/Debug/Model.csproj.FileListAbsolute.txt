@@ -1,0 +1,14 @@
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\bin\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\bin\Debug\Model.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\bin\Debug\Entity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\bin\Debug\Entity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\bin\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\bin\Debug\Model.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\bin\Debug\Entity.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\bin\Debug\Entity.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Model\obj\Debug\Model.pdb

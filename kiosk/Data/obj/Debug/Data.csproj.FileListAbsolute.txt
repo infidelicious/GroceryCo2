@@ -1,0 +1,27 @@
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Data.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\catalog.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\Order001.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\OrderPPAP.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercies\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\promotions.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\catalog.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\Order001.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\OrderPPAP.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Sources\promotions.xml
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\bin\Debug\Data.pdb
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.dll
+C:\Users\chicks\Dropbox\Docs\Resume\Applications\absorb\Exercises\GroceryCo kiosk\kiosk\Data\obj\Debug\Data.pdb
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Sources\catalog.xml
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Sources\Order001.xml
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Sources\OrderPPAP.xml
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Sources\promotions.xml
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Data.dll
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\bin\Debug\Data.pdb
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\obj\Debug\Data.dll
+C:\Users\chicks\Documents\GitHub\GroceryCo\kiosk\Data\obj\Debug\Data.pdb
