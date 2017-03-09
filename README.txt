@@ -34,6 +34,8 @@ Limitations:
 	I wanted more unit and integration tests but needed to advance on the core processing logic.
 	The order processing date is missing from the output but it is visible when run from the commandline.
 	The application does not adress taxation
+	I should have passed the view in as a parameter or on the constructor of the controller.
+	I would have liked to build out the custom exceptions in the layers and give more thought to their handling and reporting to the user.
 	
 ===============================================================================
 Usability:
